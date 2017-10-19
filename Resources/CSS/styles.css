@@ -14,10 +14,41 @@ h1 {
   color: white;
 }
 
-.navhead {
+#home {
   font-size: 18px;
 }
 
 a:visited {
   color: white;
+}
+
+p {
+  font-size: 14px;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.bigger {
+  font-size: 32px;
+  font-weight: bold;
+  color: black;
+}
+
+h2 {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+footer {
+  text-align: left;
+  background-color: dimgray;
+  color: white;
+}
+
+.copyright {
+  font-size: 11px;
 }
